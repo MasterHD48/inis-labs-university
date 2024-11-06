@@ -1,6 +1,6 @@
 function getTarget(e) {
   var targ = e.target || e.srcElement;
-  if (targ.nodeType === 3) targ = targ.parentNode; // Safari bug fix
+  if (targ.nodeType === 3) targ = targ.parentNode; 
   return targ;
 }
 
