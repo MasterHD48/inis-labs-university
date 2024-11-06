@@ -6,12 +6,12 @@ const shirts = [
     price: "$19.99",
     colors: {
       white: {
-        front: "shirt_images/beepboop-white-front.png",
-        back: "shirt_images/beepboop-white-back.png",
+        front: "shirt_images/beepboop-white-front.png", 
+        back: "shirt_images/beepboop-white-back.png", 
       },
       blue: {
-        front: "shirt_images/beepboop-blue-front.png",
-        back: "shirt_images/beepboop-blue-back.png",
+        front: "shirt_images/beepboop-blue-front.png", 
+        back: "shirt_images/beepboop-blue-back.png", 
       },
       pink: {
         front: "shirt_images/beepboop-pink-front.png",

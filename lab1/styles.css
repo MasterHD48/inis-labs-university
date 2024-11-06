@@ -38,7 +38,7 @@ h1 {
   border-radius: 20px;
 }
 .shirt button:hover {
-  background-color: #000000;
+  background-color: #000000; 
 }
 .modal {
   display: none;
